@@ -6,7 +6,7 @@ This repository contains the release code for the SeasonStereo paper: training, 
 
 ## Links
 
-- [Project page](https://multimedia-eurecat.github.io/SeasonStereo/))
+- [Project page](https://multimedia-eurecat.github.io/SeasonStereo/)
 - Paper: coming soon
 - [Dataset](https://huggingface.co/datasets/Alvaritox/seasonstereo-data)
 - [Checkpoints](https://huggingface.co/Alvaritox/seasonstereo)
